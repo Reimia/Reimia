@@ -1,4 +1,4 @@
-- Blog: <a href="http://blog.reimia.top" target="_blank">摸了</a>
+- Blog: <a href="http://reimia.top" target="_blank">摸了</a>
 
 <div align="center">
   <picture>
